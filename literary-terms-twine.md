@@ -1,15 +1,13 @@
 
 
 
-^^^^^^^^^^^^^^^^^^USED BELOW^^^^^^^^^^^^^^^^^^^^^^^ 
-
 **Figurative Language:**
 
-Figurative language uses [[metaphor-->Metaphor]], [[simile->Simile]], and [[allusion->Allusion]] to project beyond the literal meanings of words. Sometimes, we call this kind of language "figure of speech" because it is often used in the non-literal sense for rhetorical or vivid effect.
+Figurative language uses [[metaphor->Metaphor]], [[simile->Simile]], and [[allusion->Allusion]] to project beyond the literal meanings of words, usally to convey an [[image->Image]]. Sometimes, we call this kind of language "figure of speech" because it is often used in the non-literal sense for rhetorical or vivid effect.
 
-When we encounter a metaphor such as "The boat plaows through the water," we do not imagine a literal boat and a literal plow. Instead, we see the [[symbolic->Symbol]], or non-literal aspects of the boat (imagining it moving through water) and the plow (imagining it moving through the field). The collision between these two things (a boat from the water and a plow from the land) creates a vivid [[image->Imagery]] of //how// the boat is moving through the water. As a counterpoint, imagine a boat //flying// through the water. The boat is not literally flying; it is moving quickly. 
+When we encounter a metaphor such as "The boat plows through the water," we do not imagine a literal boat and a literal plow. Instead, we see the [[symbolic->Symbol]], or non-literal aspects of the boat (imagining it moving through water) and the plow (imagining it moving through the field). The collision between these two things (a boat from the water and a plow from the land) creates a vivid [[image->Imagery]] of //how// the boat is moving through the water. As a counterpoint, imagine a boat //flying// through the water. The boat is not literally flying; it is moving quickly. 
 
-See also [[simile->Simile]], [[metaphor->Metaphor]], [[imagery->Imagery]], [[alliteration->Alliteration]], [[imagery->Imagery]], 
+See also [[simile->Simile]], [[metaphor->Metaphor]], [[imagery->Imagery]], [[alliteration->Alliteration]], [[imagery->Image]], 
 
 ---
 
@@ -174,72 +172,47 @@ When thinking about setting, ask some of the following questions:
 
 ---
 
-
-
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
 **Genre:**
-Definition:
 
-Genre. Say it out loud. Sounds fancy, right? Well, it's not. It really just means "kind" in French. And that's exactly what genre is: a kind. In our case, a kind of literature.
+Genre refers to the type of [[text->Text]] you are looking at, the expectations governing your reading of it, and the conventions associated with that type of text. Genre often provides [[context->Context]] for understanding a text. 
 
-What's in a genre, you ask? Just a pile of conventions. Different combinations of conventions—ranging from style, tone, character development, setting, and beyond—make for some crazy genres. Some of them even have funny names:
+If we identify a text as a poem, then we read it with particular expectations; we look for rhyme, metre, [[figurative language->Figurative Language]] and other signals that we expect in poetry. When we recognize the genre as a novel, we expect conventions such as [[character->Character]] development, an expanded [[narrative->Narrative]], conflict and resolution over a period of time. More specifically, if we are reading detective fiction, we expect a dead body , an unknown assailant, and a smart detective; if we are reading a romance novel, we expect a love affair often set in an exotic locale. Likewise, advertising, movies, and games are also genres with their own set of conventions. All of the above examples refer to genre. 
 
-Ergodic literature
-Space opera
-Luciferian literature
-Splatterpunk
-Techno-thriller
-And then there are the ones that are more likely to show up on your summer reading list:
+Genre is interesting because in setting the context for how we receive a text, it can defy expectations or deploy them in interesting ways. 
 
-Fantasy
-Gothic
-Mystery
-Romance
-Science Fiction
-Dystopian
-Epic
-Biography
-Detective Fiction
-Today, we might even be able to call teen paranormal romance a genre. We're not making this stuff up.
+Some examples of common genres: mystery, detective fiction, true crime, young adult, epic, [[ballad->Ballad]], romance, science-fiction. As well, genres can be combined: poetic-fantasy, detective-romance. 
+
+See also: [[style->Style]], [[setting->Setting]], [[tone->Tone]], [[character->Character]].
 
 ---
 
 **Motif:**
 
-A motif is a meaningful pattern in art and literature. When you see an image, type of character, or symbol pop up again and again, chances are you're dealing with a motif. A motif can be specific to a single book or poem or can occur in art more generally, like an apple standing in for original sin. Yeah. Real original.
+Motif refers to a pattern that, throughout the text, creates meaning. Motif usually refers to a repeated [[image->Imagery]], [[character-type->Character]] or [[symbol->Symbol]] that comes to have meaning to some element of the [[text->Text]].  
 
-Want to see a motif in the wild? Check out the motif of flight in Toni Morrison's Song of Solomon. Just don't make any sudden movements.
+Motifs can be locked to a text--specific to that text. Or, they can reflect larger cultural, economic, or moral / religious sentiments--we see this most obviously in [[symbols->Symbol]] such as roses and hearts meaning love, crosses meaning religion, white meaning innocence, purity, and cleanliness. 
+
+Motifs are not always symbols. They can be actions as well--the repeated action of running away, or of lighting a cigarette, or drinking a cup of coffee. The important things is that the action (or symbol / image) must be repeated throughout the text, not simply a one-off. If it is a one-off, you're probably better off dealing with it as a [[symbol->Symbol]] or [[image->Image]].
 
 ---
 
 **Symbol**
 
-A symbol is something that represents something else. We know—super helpful, right?
+A symbol is something the meaning of which refers to something other than its literal meaning. 
 
-Want more clarity? Okay, how about this: a symbol is a word, an image, or anything that somehow represents a larger idea. In other words, what you see is not just what you get. Symbols are more than meets the eye. They're loaded with meaning.
+A symbol usually refers to a word, [[image->Image]], or [[motif->Motif]] that represents a larger, more complex idea, [[context->Context]], or image than the literal meaning of the word, image, or motif might represent. For example, the Canadian flag is a symbol for the socio-cultural freedoms the country represents; the beaver is a Canadian symbol meant to suggest both our connection to the land and our work ethic. 
 
-Example? In America, eagles are a symbol of freedom. In punk rock, the safety pin is a symbol of rebellion. In Western literature, the apple is often a symbol for sin. See how that works?
+However, the word, image, or motif--the [[signal->Signal]]--for the symbol does not lose its literal meaning. As Gertrude Stein famously wrote: "a rose is a rose is a rose." While symbols are important and have many layers of meaning, it is important to remember that they are also simply words; they can shift over time and reflect something different than they did originally.  
 
-But when talking about symbols, it's also important to remember that the symbol is still itself, in addition to what it symbolizes. So when you see an apple in a book and immediately think of sin, don't forget that it's also just an apple. And someone's probably going to eat it. Or at least bake it into a pie.
-
-Symbols carry great power in literature. In fact, we here at Shmoop set aside entire sections of our literature and poetry learning guides just to discuss them.
-
-To see the Shmoop analysis gnomes in action, check out holes in, um, Holes or the birthmark in, uh, The Birthmark. Hmm, we're sensing a pattern here…
+See also: [[character->Character]], [[figurative language->Figurative Language]], [[setting->Setting]].
 
 ---
 
-''Similes''
-- His friend is as black as coal.
-- She was brilliant like sunshine in your eyes. 
+**Signal:**
 
-''Metaphor''
-- Kisses are roses in the spring.
-- This world is a sea of anonymous faces.
+Signal is a term used to disassociated the literary element from its possible connection to convention. We use signal to indicate something about how the [[image->Image]], [[character->Character]], [[setting->Setting]], [[context->Context]], etc. suggests meaning. 
 
-''Images''
-The house stood half-demolished and abandoned.
-He left with his haunted and spell-bound face.
+A character might "signal" a particular [[motif->Motif]]. A [[setting->Setting]] might "signal" a particular context. The [[point-of-view->Point of View]] might "signal" a particular political, ethical, or social belief system. An action might "signal" a hidden meaning or ambiguity in the text's meaning. 
 
 ---
 
@@ -248,6 +221,52 @@ He left with his haunted and spell-bound face.
 Personification is [[figurative language->Figurative Language]] that gives human traits (qualities, feelings, action, or characteristics) to animals, non-living objects, or ideas (like things, colours, qualities, even abstract ideals).
 
 See also: [[character->Character]]
+
+---
+
+**Metaphor:**
+
+A metaphor is the juxtaposition of two (usually different) things that, when read together, come to mean something different and often provide a heightened [[image--Imagery]] in the mind of the reader. They often describe one thing in terms of another--using [[figurative language->Figurative Language]] to make the two things into one image.
+
+Some examples: 
+
+<ul><li>The boat plows through the water--boats and plows are different, but the image of the boat plowing through the water is vivid when they are put together.</li>
+<li>That man is a toad--he's not literally a toad. But, when he is put together with one, we sure get a sense of his [[character->Character]].</li>
+
+Beware the separation of [[simile->Simile]] and metaphor; a simile is a kind of metaphor using like or as. [[Personification->Personification]] is another kind of metaphor.
+
+---
+
+**Simile:**
+
+A simile is a kind of [[metaphor->Metaphor]] that makes a comparison using the words "like" or "as." It is a type of [[figurative language->Figurative Language]] and as such attempts to heighten the impact of language and create a lasting [[image->Image]] or [[symbol->Symbol]].
+
+
+
+
+
+
+
+
+
+
+
+---
+
+**Point-of-View:**
+
+Point-of-View
+Definition:
+
+In the wise words of Oscar Wilde, "The optimist sees the doughnut; the pessimist the hole."
+
+Tossing the doughnuts aside for a moment (what? never!), we'd like to point out what Oscar is in fact pointing out: perspective is important.
+
+And that's where point of view comes in. Point of view is the perspective of a narrator or character. A narrator can write from different points of view, mainly first person or third person.
+
+Choosing the point of view is a big deal for an author, because the perspective from which a novel is narrated has a big impact on a reader's experience. If it's in the first person, for example, we get a limited view of the events; we don't get the full picture, but we do get to get to know a character quite well. If we're reading from a third person's perspective, we might get a bird's eye view, but we'll be a bit detached from the goings on.
+
+Of course, these are generalizations, and the effect of point of view is different for each book you read. But it's always something to consider.
 
 ---
 
@@ -339,75 +358,7 @@ In a gamebook, readers are told to turn to a certain page according to the choic
 ---
 
 
-**Metaphor:**
-
-Metaphor
-Definition:
-
-Anyone who's ever sat in an English classroom knows that metaphors are everywhere, and all-important. Where would literary history be without lines like "I have measured out my life with coffee spoons"? Or the declaration that "all the world's a stage"? Or the rhetorical conundrum of "Who in the rainbow can show the line where the violet tint ends and the orange tint begins?"
-
-Metaphor, it's safe to say, is the bread and butter of literature. But, um, have you ever really thought about what a metaphor is? And, more importantly, how metaphors work?
-
-A metaphor is a kind of word magic that—presto change-o, alakazam—changes black hats into rabbits and scarves into doves. With a wave of the wand, metaphors compare two different things; metaphors describe one object as another. It's almost as if the object becomes what it is being compared to, at least, in a figurative way.
-
-"You're a toad!" is a metaphor—although not a very nice one. So is "you're a star!" and that one's a little kinder. Metaphors are different from similes because metaphors leave out the words "like" or "as." For example, a simile would be, "You're like a toad" or "You're like a star." (Although, technically speaking, similes are a type of metaphor.)
-
-Pop music gives us lots of easy examples. Like, "I am the Walrus" or "she's buying a stairway to heaven." Uh, last time we checked, there was no stairway going up to the sky, and even if there were, it certainly wouldn't be for sale. We hope. So that one has to be a metaphor, right? (In fact it is, and a rather complex one at that.)
-
-A metaphor has two parts: a tenor and a vehicle. The tenor is the subject of the metaphor. That is, what you're trying to describe as something else. The vehicle is what you use to transform the subject into something else. Again, that cool presto change-o trick.
-
-I'm king of the world!
-
-The tenor is "I" (Leonardo DiCaprio) 
-The vehicle is "king"
-
-See? Metaphors really open up the meaning of a phrase. They give us a new and exciting and creative way to say or see something. (That's why authors like them so much, we think.)
-
-Because they are a kind of figurative language, there are a ton of different kinds of metaphors. 
-
-Technically speaking, similes are metaphors, too, they just use "like" or "as." Personification is a kind of metaphor that compares something to people. And then there are the fancypants metaphors like metonymy and synecdoche. Memorizing your metaphors can go a long way in opening up literature for you, so get crackin', Shmoopers.
-
-And in the meantime, remember our favorite metaphor of all:
-
-Love is a battlefield.
-
----
-
-**Simile:**
-
-
-Simile
-Definition:
-
-Similes make Shmoop smile like somethin' else.
-
-That's a simile, albeit not a very good one. A simile is a figure of speech that makes use of the adverbs "like" or "as" to make a comparison or analogy. In that sense, it's a very specific kind of metaphor, but for the most part, we can think of it as its own separate beast.
-
-Similes have been around forever. Greek poet guy Homer used them in his writing all the time, the longer the better. Check out our section on the Homeric simile (a.k.a. a heroic simile) in our learning guide on the Odyssey.
-
-Can you find similes in non-ancient lit? Um, of course. William Shakespeare is probably Homer's heir to the simile throne, but poets and prosers today are still vying for the title. Plus, the things abound in pop music lyrics. She's like the wind, anyone?
-
-Seriously, Shmoopers, similes are about as common as a cold. See what we did there?
-
----
-
-**Point-of-View:**
-
-Point-of-View
-Definition:
-
-In the wise words of Oscar Wilde, "The optimist sees the doughnut; the pessimist the hole."
-
-Tossing the doughnuts aside for a moment (what? never!), we'd like to point out what Oscar is in fact pointing out: perspective is important.
-
-And that's where point of view comes in. Point of view is the perspective of a narrator or character. A narrator can write from different points of view, mainly first person or third person.
-
-Choosing the point of view is a big deal for an author, because the perspective from which a novel is narrated has a big impact on a reader's experience. If it's in the first person, for example, we get a limited view of the events; we don't get the full picture, but we do get to get to know a character quite well. If we're reading from a third person's perspective, we might get a bird's eye view, but we'll be a bit detached from the goings on.
-
-Of course, these are generalizations, and the effect of point of view is different for each book you read. But it's always something to consider.
-
----
-
+*
 **First-Person Narrative Voice:**
 
 First-person Narration

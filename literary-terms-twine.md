@@ -130,43 +130,6 @@ Imagery is often built up with [[symbol->Symbol]] and [[figurative language->Fig
 
 ---
 
-
-
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-
-**Motif:**
-
-A motif is a meaningful pattern in art and literature. When you see an image, type of character, or symbol pop up again and again, chances are you're dealing with a motif. A motif can be specific to a single book or poem or can occur in art more generally, like an apple standing in for original sin. Yeah. Real original.
-
-Want to see a motif in the wild? Check out the motif of flight in Toni Morrison's Song of Solomon. Just don't make any sudden movements.
-
----
-
-
----
-
-''Similes''
-- His friend is as black as coal.
-- She was brilliant like sunshine in your eyes. 
-
-''Metaphor''
-- Kisses are roses in the spring.
-- This world is a sea of anonymous faces.
-
-''Images''
-The house stood half-demolished and abandoned.
-He left with his haunted and spell-bound face.
-
-
-
-
-
-
-
-
-
----
-
 **Character:**
 
 Character refers to the people (maybe animals, houses, robots, or other objects--see [[personification->Personification]] found in the text.  
@@ -210,6 +173,171 @@ When thinking about setting, ask some of the following questions:
 <li>Does the setting change? Why does it change and in response to what? </li></ul> 
 
 ---
+
+
+
+&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
+
+**Genre:**
+Definition:
+
+Genre. Say it out loud. Sounds fancy, right? Well, it's not. It really just means "kind" in French. And that's exactly what genre is: a kind. In our case, a kind of literature.
+
+What's in a genre, you ask? Just a pile of conventions. Different combinations of conventions—ranging from style, tone, character development, setting, and beyond—make for some crazy genres. Some of them even have funny names:
+
+Ergodic literature
+Space opera
+Luciferian literature
+Splatterpunk
+Techno-thriller
+And then there are the ones that are more likely to show up on your summer reading list:
+
+Fantasy
+Gothic
+Mystery
+Romance
+Science Fiction
+Dystopian
+Epic
+Biography
+Detective Fiction
+Today, we might even be able to call teen paranormal romance a genre. We're not making this stuff up.
+
+---
+
+**Motif:**
+
+A motif is a meaningful pattern in art and literature. When you see an image, type of character, or symbol pop up again and again, chances are you're dealing with a motif. A motif can be specific to a single book or poem or can occur in art more generally, like an apple standing in for original sin. Yeah. Real original.
+
+Want to see a motif in the wild? Check out the motif of flight in Toni Morrison's Song of Solomon. Just don't make any sudden movements.
+
+---
+
+**Symbol**
+
+A symbol is something that represents something else. We know—super helpful, right?
+
+Want more clarity? Okay, how about this: a symbol is a word, an image, or anything that somehow represents a larger idea. In other words, what you see is not just what you get. Symbols are more than meets the eye. They're loaded with meaning.
+
+Example? In America, eagles are a symbol of freedom. In punk rock, the safety pin is a symbol of rebellion. In Western literature, the apple is often a symbol for sin. See how that works?
+
+But when talking about symbols, it's also important to remember that the symbol is still itself, in addition to what it symbolizes. So when you see an apple in a book and immediately think of sin, don't forget that it's also just an apple. And someone's probably going to eat it. Or at least bake it into a pie.
+
+Symbols carry great power in literature. In fact, we here at Shmoop set aside entire sections of our literature and poetry learning guides just to discuss them.
+
+To see the Shmoop analysis gnomes in action, check out holes in, um, Holes or the birthmark in, uh, The Birthmark. Hmm, we're sensing a pattern here…
+
+---
+
+''Similes''
+- His friend is as black as coal.
+- She was brilliant like sunshine in your eyes. 
+
+''Metaphor''
+- Kisses are roses in the spring.
+- This world is a sea of anonymous faces.
+
+''Images''
+The house stood half-demolished and abandoned.
+He left with his haunted and spell-bound face.
+
+---
+
+**Personification:**
+
+Personification is [[figurative language->Figurative Language]] that gives human traits (qualities, feelings, action, or characteristics) to animals, non-living objects, or ideas (like things, colours, qualities, even abstract ideals).
+
+See also: [[character->Character]]
+
+---
+
+**Narrative:**
+
+Human nature
+Owen Flanagan of Duke University, a leading consciousness researcher, writes, "Evidence strongly suggests that humans in all cultures come to cast their own identity in some sort of narrative form. We are inveterate storytellers."[6] Stories are an important aspect of culture. Many works of art and most works of literature tell stories; indeed, most of the humanities involve stories.[7] Stories are of ancient origin, existing in ancient Egyptian, ancient Greek, Chinese and Indian cultures and their myths. Stories are also a ubiquitous component of human communication, used as parables and examples to illustrate points. Storytelling was probably one of the earliest forms of entertainment. As noted by Owen Flanagan, narrative may also refer to psychological processes in self-identity, memory and meaning-making.
+
+Semiotics begins with the individual building blocks of meaning called signs; and semantics, the way in which signs are combined into codes to transmit messages. This is part of a general communication system using both verbal and non-verbal elements, and creating a discourse with different modalities and forms.
+
+In On Realism in Art Roman Jakobson argues that literature exists as a separate entity. He and many other semioticians prefer the view that all texts, whether spoken or written, are the same, except that some authors encode their texts with distinctive literary qualities that distinguish them from other forms of discourse. Nevertheless, there is a clear trend to address literary narrative forms as separable from other forms. This is first seen in Russian Formalism through Victor Shklovsky's analysis of the relationship between composition and style, and in the work of Vladimir Propp, who analysed the plots used in traditional folk-tales and identified 31 distinct functional components.[8] This trend (or these trends) continued in the work of the Prague School and of French scholars such as Claude Lévi-Strauss and Roland Barthes. It leads to a structural analysis of narrative and an increasingly influential body of modern work that raises important epistemological questions:
+
+What is text?
+What is its role (culture)?
+How is it manifested as art, cinema, theater, or literature?
+Why is narrative divided into different genres, such as poetry, short stories, and novels?
+Literary theory
+In literary theoretic approach, narrative is being narrowly defined as fiction-writing mode in which the narrator is communicating directly to the reader. Until the late 19th century, literary criticism as an academic exercise dealt solely with poetry (including epic poems like the Iliad and Paradise Lost, and poetic drama like Shakespeare). Most poems did not have a narrator distinct from the author.
+
+But novels, lending a number of voices to several characters in addition to narrator's, created a possibility of narrator's views differing significantly from the author's views. With the rise of the novel in the 18th century, the concept of the narrator (as opposed to "author") made the question of narrator a prominent one for literary theory. It has been proposed that perspective and interpretive knowledge are the essential characteristics, while focalization and structure are lateral characteristics of the narrator.[according to whom?]
+
+Types of narrators and their modes
+A writer's choice in the narrator is crucial for the way a work of fiction is perceived by the reader. There is a distinction between first-person and third-person narrative, which Gérard Genette refers to as intradiegetic and extradiegetic narrative, respectively. Intradiagetic narrators are of two types: a homodiegetic narrator participates as a character in the story. Such a narrator cannot know more about other characters than what their actions reveal. A heterodiegetic narrator, in contrast, describes the experiences of the characters that appear in the story in which he or she does not participate.
+
+Most narrators present their story from one of the following perspectives (called narrative modes): first-person, or third-person limited or omniscient. Generally, a first-person narrator brings greater focus on the feelings, opinions, and perceptions of a particular character in a story, and on how the character views the world and the views of other characters. If the writer's intention is to get inside the world of a character, then it is a good choice, although a third-person limited narrator is an alternative that does not require the writer to reveal all that a first-person character would know. By contrast, a third-person omniscient narrator gives a panoramic view of the world of the story, looking into many characters and into the broader background of a story. A third-person omniscient narrator can be an animal or an object, or it can be a more abstract instance that does not refer to itself. For stories in which the context and the views of many characters are important, a third-person narrator is a better choice. However, a third-person narrator does not need to be an omnipresent guide, but instead may merely be the protagonist referring to himself in the third person (also known as third person limited narrator).
+
+Multiple narrators
+Main article: Multiperspectivity
+A writer may choose to let several narrators tell the story from different points of view. Then it is up to the reader to decide which narrator seems most reliable for each part of the story. It may refer to the style of the writer in which he/she expresses the paragraph written. See for instance the works of Louise Erdrich. William Faulkner's As I Lay Dying is a prime example of the use of multiple narrators. Faulkner employs stream of consciousness to narrate the story from various perspectives.
+
+In Indigenous American communities, narratives and storytelling are often told by a number of elders in the community. In this way, the stories are never static because they are shaped by the relationship between narrator and audience. Thus, each individual story may have countless variations. Narrators often incorporate minor changes in the story in order to tailor the story to different audiences.[9]
+
+Aesthetics approach
+Narrative is a highly aesthetic art. Thoughtfully composed stories have a number of aesthetic elements. Such elements include the idea of narrative structure, with identifiable beginnings, middles and ends, or exposition-development-climax-denouement, with coherent plot lines; a strong focus on temporality including retention of the past, attention to present action and protention/future anticipation; a substantial focus on character and characterization, "arguably the most important single component of the novel" (David Lodge The Art of Fiction 67); different voices interacting, "the sound of the human voice, or many voices, speaking in a variety of accents, rhythms and registers" (Lodge The Art of Fiction 97; see also the theory of Mikhail Bakhtin for expansion of this idea); a narrator or narrator-like voice, which "addresses" and "interacts with" reading audiences (see Reader Response theory); communicates with a Wayne Booth-esque rhetorical thrust, a dialectic process of interpretation, which is at times beneath the surface, forming a plotted narrative, and at other times much more visible, "arguing" for and against various positions; relies substantially on the use of literary tropes (see Hayden White, Metahistory for expansion of this idea); is often intertextual with other literatures; and commonly demonstrates an effort toward bildungsroman, a description of identity development with an effort to evince becoming in character and community.[jargon]
+
+Psychological approach
+See also: Narrative therapy
+Within philosophy of mind, the social sciences and various clinical fields including medicine, narrative can refer to aspects of human psychology.[10] A personal narrative process is involved in a person's sense of personal or cultural identity, and in the creation and construction of memories; it is thought by some to be the fundamental nature of the self.[11][12] The breakdown of a coherent or positive narrative has been implicated in the development of psychosis and mental disorder, and its repair said to play an important role in journeys of recovery.[13] Narrative Therapy is a school of (family) psychotherapy.
+
+---
+
+**Narrative Structure:**
+
+Definition
+Narrative structure is about story and plot: the content of a story and the form used to tell the story. Story refers to the dramatic action as it might be described in chronological order. Plot refers to how the story is told. Story is about trying to determine the key conflicts, main characters, setting and events. Plot is about how, and at what stages, the key conflicts are set up and resolved.[1]
+
+Description
+The setup (act one) is where all of the main characters and their basic situations are introduced, and contains the primary level of characterization (exploring the character's backgrounds and personalities). A problem is also introduced, which is what drives the story forward.
+
+The second act, the conflict, is the bulk of the story, and begins when the inciting incident (or catalyst) sets things into motion. This is the part of the story where the characters go through major changes in their lives as a result of what is happening; this can be referred to as the character arc, or character development.
+
+The third act, or resolution, is when the problem in the story boils over, forcing the characters to confront it, allowing all the elements of the story to come together and inevitably leading to the ending.
+
+History
+First described in ancient times by Greek philosophers (such as Aristotle and Plato), the notion of narrative structure saw renewed popularity as a critical concept in the mid-to-late-20th century, when structuralist literary theorists including Roland Barthes, Vladimir Propp, Joseph Campbell, and Northrop Frye attempted to argue that all human narratives have certain universal, deep structural elements in common. This argument fell out of fashion when advocates of poststructuralism such as Michel Foucault and Jacques Derrida asserted that such universally shared, deep structures were logically impossible.
+
+In Frye's Anatomy of Criticism, he deals extensively with what he calls myths of Spring, Summer, Fall, and Winter:
+
+Spring myths are comedies, that is, stories that lead from bad situations to happy endings. Shakespeare's Twelfth Night is such a story.
+Summer myths are similarly utopian fantasies such as Dante's Paradiso.
+Fall myths are tragedies that lead from ideal situations to disaster. Compare Hamlet, Othello, and King Lear and the movie Legends of the Fall.
+Winter myths are dystopias; for example, George Orwell's 1984, Aldous Huxley's Brave New World, and Ayn Rand's novella Anthem.
+Categories
+Most forms of narrative fall under four main categories: linear narratives, nonlinear narrative, interactive narration, and interactive narrative.
+
+Linear narrative is the most common form of narration, where events are largely portrayed in a chronological order, that is, telling the events in the order in which they occurred.
+Nonlinear narratives, disjointed narrative or disrupted narrative is a narrative technique, where events are portrayed, out of chronological order or in other ways where the narrative does not follow the direct causality pattern.
+Interactive narration refers to works where the linear narrative is driven by, rather than influenced by, the users interaction.
+Interactive narrative is a form of fiction in which users are able to make choices that influence the narrative (for example, through alternative plots or resulting in alternative endings) through their actions.
+Linear narrative
+Flashbacks are often confused with true narratives which are not linear, but the concept is fundamentally linear. An example would be Citizen Kane by Orson Welles. Although some films appear to open (very briefly) with the ending, flashback movies almost immediately jump back to the very beginning of the story to proceed linearly from there, and usually proceed past the supposed "ending" shown at the beginning of the movie.
+
+Nonlinear narrative
+Cinema can only provide the illusion through broken narrative, a famous example of this being the 1994 film Pulp Fiction. The film is ostensibly three short stories, which, upon closer inspection, are actually three sections of one story with the chronology broken up; Quentin Tarantino constructs the narrative without resorting to classic "flashback" techniques.
+
+An even more ambitious attempt at constructing a film based on non-linear narrative is Alain Resnais's 1993 French film Smoking/No Smoking. The plot contains parallel developments, playing on the idea of what might have happened had the characters made different choices.
+
+Interactive narration
+In works of interactive narration there is only one narrative but the method of delivery requires the user to actively work to gain the next piece of the narrative, or have to piece the parts of narrative that they have together in order to form a coherent narrative.
+
+This is the narrative approach of some modern video games. A player will be required to reach an objective, complete a task, solve a puzzle, or finish a level before the narrative continues.
+
+Interactive narrative
+An interactive narrative is one which is composed with a branching structure where a single starting point may lead to multiple developments and outcomes. The principle of all such games is that, at each step of the narrative, the user makes choices that advance the story, leading to new series of choices. Authoring non-linear narrative or dialogue thus implies imagining an indefinite number of parallel stories.
+
+In a gamebook, readers are told to turn to a certain page according to the choice they wish to make to continue the story. Typically, the choice will be an action rather than dialogue. For example, the hero hears a noise in another room and must decide to open the door and investigate, run away, or call for help. This kind of interactive experience of a story is possible with video games and books (where the reader is free to turn the pages) but less adapted to other forms of entertainment. Improvisational theatre is similarly open-ended, but of course cannot be said to be authored.
+
+
+---
+
 
 **Metaphor:**
 

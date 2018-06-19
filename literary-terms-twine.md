@@ -106,13 +106,17 @@ Protagonists are often very complex, conveying multiple layers, drives, and acti
 
 **Structure:**
 
-Structure refers to the way a text is put into order. Structure is important because it often signals an important element of textual understanding--time. As well, it may indicate the importance of some textual event (or [[symbol->Symbol]] by featuring it more prominently that other events. 
+**Structure:**
+
+Generally, structure refers to the way a text is put into order. A more general way of speaking to textual elements that might help decipher [[narrative structure->Narrative Structure]].  Structure is important because it often signals an important element of textual understanding--time. As well, it may indicate the importance of some textual event (or [[symbol->Symbol]] by featuring it more prominently that other events. 
 
 As well, structure can refer to sentence-level mechanics such as [[syntax->Syntax]], [[tone->Tone]], and [[diction->Diction]]. 
 
-We also encounter structure when we think about what the narrator knows about the story being told and her motivations for sequencing the events as she has done. As with every other case, we always need to attend to the words on the page, but structure things about the order of those words, the sequence of the events those words describe 
+We also encounter structure when we think about what the narrator knows about the story being told and her motivations for sequencing the events as she has done. As with every other case, we always need to attend to the words on the page, but structure things about the order of those words, the sequence of the events those words describe.  
 
- ---
+See also: [[genre->Genre]], [[narrative->Narrative Structure]], [[setting->Setting]]
+
+---
  
  **Syntax:**
 
@@ -130,14 +134,14 @@ Imagery is often built up with [[symbol->Symbol]] and [[figurative language->Fig
 
 **Character:**
 
-Character refers to the people (maybe animals, houses, robots, or other objects--see [[personification->Personification]] found in the text.  
+Character refers to the people (maybe animals, houses, robots, or other objects--see [[personification->Personification]] found in the [[text->Text]].  
 
-Characters have different levels of importance, with the main character being the one around whom the story is built or the one shaping the [[narrative->Narrative]]. At the same time, a character or characters will be the anchor for [[point-of-view->Point of View]]. However, any figure who acts, thinks, speaks, or feels is generally a character and can drive the narrative, perhaps hindering the main character, or manipulating the main character. Subordinate characters often have greater [[symbolic->symbol]] roles. 
+Characters have different levels of importance, with the main character being the one around whom the story is built or the one shaping the [[narrative->Narrative Structure]]. At the same time, a character or characters will be the anchor for [[point-of-view->Point of View]]. However, any figure who acts, thinks, speaks, or feels is generally a character and can drive the narrative, perhaps hindering the main character, or manipulating the main character. Subordinate characters often have greater [[symbolic->Symbol]] roles. 
 
 Briefly, characters can do some or all of the following: 
 <ul><li>speak, move, act, think, and feel.</li>
-<li>remain invisible as an entity within the story--often as [[omniscient narrators->Omniscient Narrator]]</li>
-<li>drive the [[structure->Structure]] of the [[narrative->Narrative]] forward, backward, sideways, or nowhere.</li>
+<li>remain invisible as an entity within the story--often as [[third-person omniscient narrators->Third Person Narrative POV]]</li>
+<li>drive the [[structure->Structure]] of the [[narrative->Narrative Structure]] forward, backward, sideways, or nowhere.</li>
 <li>act as a [[symbol->Symbol]] within the text.</li>
 <li>act as a signal for [[intertextuality->Intertextuality]] or [[allusion->Allusion]].</li>
 <li>reflect common and/or prevailing cultural, political, social, and moral expectations.</li>
@@ -146,6 +150,7 @@ Briefly, characters can do some or all of the following:
 <li>place the [[setting->Setting]] of a text--a text where we read the action in the narrator's head.</li>
 <li>act as the template or cornerstone for the text's [[tone->Tone]], [[imagery->Imagery]], or [[motif->Motif]].</li></ul>
 
+See also: [[diction->Diction]], [[tone->Tone]]
 ---
 
 **Setting:**
@@ -241,210 +246,148 @@ Beware the separation of [[simile->Simile]] and metaphor; a simile is a kind of 
 
 A simile is a kind of [[metaphor->Metaphor]] that makes a comparison using the words "like" or "as." It is a type of [[figurative language->Figurative Language]] and as such attempts to heighten the impact of language and create a lasting [[image->Image]] or [[symbol->Symbol]].
 
-
-
-
-
-
-
-
-
-
-
----
-
-**Point-of-View:**
-
-Point-of-View
-Definition:
-
-In the wise words of Oscar Wilde, "The optimist sees the doughnut; the pessimist the hole."
-
-Tossing the doughnuts aside for a moment (what? never!), we'd like to point out what Oscar is in fact pointing out: perspective is important.
-
-And that's where point of view comes in. Point of view is the perspective of a narrator or character. A narrator can write from different points of view, mainly first person or third person.
-
-Choosing the point of view is a big deal for an author, because the perspective from which a novel is narrated has a big impact on a reader's experience. If it's in the first person, for example, we get a limited view of the events; we don't get the full picture, but we do get to get to know a character quite well. If we're reading from a third person's perspective, we might get a bird's eye view, but we'll be a bit detached from the goings on.
-
-Of course, these are generalizations, and the effect of point of view is different for each book you read. But it's always something to consider.
-
----
-
-**Narrative:**
-
-Human nature
-Owen Flanagan of Duke University, a leading consciousness researcher, writes, "Evidence strongly suggests that humans in all cultures come to cast their own identity in some sort of narrative form. We are inveterate storytellers."[6] Stories are an important aspect of culture. Many works of art and most works of literature tell stories; indeed, most of the humanities involve stories.[7] Stories are of ancient origin, existing in ancient Egyptian, ancient Greek, Chinese and Indian cultures and their myths. Stories are also a ubiquitous component of human communication, used as parables and examples to illustrate points. Storytelling was probably one of the earliest forms of entertainment. As noted by Owen Flanagan, narrative may also refer to psychological processes in self-identity, memory and meaning-making.
-
-Semiotics begins with the individual building blocks of meaning called signs; and semantics, the way in which signs are combined into codes to transmit messages. This is part of a general communication system using both verbal and non-verbal elements, and creating a discourse with different modalities and forms.
-
-In On Realism in Art Roman Jakobson argues that literature exists as a separate entity. He and many other semioticians prefer the view that all texts, whether spoken or written, are the same, except that some authors encode their texts with distinctive literary qualities that distinguish them from other forms of discourse. Nevertheless, there is a clear trend to address literary narrative forms as separable from other forms. This is first seen in Russian Formalism through Victor Shklovsky's analysis of the relationship between composition and style, and in the work of Vladimir Propp, who analysed the plots used in traditional folk-tales and identified 31 distinct functional components.[8] This trend (or these trends) continued in the work of the Prague School and of French scholars such as Claude Lévi-Strauss and Roland Barthes. It leads to a structural analysis of narrative and an increasingly influential body of modern work that raises important epistemological questions:
-
-What is text?
-What is its role (culture)?
-How is it manifested as art, cinema, theater, or literature?
-Why is narrative divided into different genres, such as poetry, short stories, and novels?
-Literary theory
-In literary theoretic approach, narrative is being narrowly defined as fiction-writing mode in which the narrator is communicating directly to the reader. Until the late 19th century, literary criticism as an academic exercise dealt solely with poetry (including epic poems like the Iliad and Paradise Lost, and poetic drama like Shakespeare). Most poems did not have a narrator distinct from the author.
-
-But novels, lending a number of voices to several characters in addition to narrator's, created a possibility of narrator's views differing significantly from the author's views. With the rise of the novel in the 18th century, the concept of the narrator (as opposed to "author") made the question of narrator a prominent one for literary theory. It has been proposed that perspective and interpretive knowledge are the essential characteristics, while focalization and structure are lateral characteristics of the narrator.[according to whom?]
-
-Types of narrators and their modes
-A writer's choice in the narrator is crucial for the way a work of fiction is perceived by the reader. There is a distinction between first-person and third-person narrative, which Gérard Genette refers to as intradiegetic and extradiegetic narrative, respectively. Intradiagetic narrators are of two types: a homodiegetic narrator participates as a character in the story. Such a narrator cannot know more about other characters than what their actions reveal. A heterodiegetic narrator, in contrast, describes the experiences of the characters that appear in the story in which he or she does not participate.
-
-Most narrators present their story from one of the following perspectives (called narrative modes): first-person, or third-person limited or omniscient. Generally, a first-person narrator brings greater focus on the feelings, opinions, and perceptions of a particular character in a story, and on how the character views the world and the views of other characters. If the writer's intention is to get inside the world of a character, then it is a good choice, although a third-person limited narrator is an alternative that does not require the writer to reveal all that a first-person character would know. By contrast, a third-person omniscient narrator gives a panoramic view of the world of the story, looking into many characters and into the broader background of a story. A third-person omniscient narrator can be an animal or an object, or it can be a more abstract instance that does not refer to itself. For stories in which the context and the views of many characters are important, a third-person narrator is a better choice. However, a third-person narrator does not need to be an omnipresent guide, but instead may merely be the protagonist referring to himself in the third person (also known as third person limited narrator).
-
-Multiple narrators
-Main article: Multiperspectivity
-A writer may choose to let several narrators tell the story from different points of view. Then it is up to the reader to decide which narrator seems most reliable for each part of the story. It may refer to the style of the writer in which he/she expresses the paragraph written. See for instance the works of Louise Erdrich. William Faulkner's As I Lay Dying is a prime example of the use of multiple narrators. Faulkner employs stream of consciousness to narrate the story from various perspectives.
-
-In Indigenous American communities, narratives and storytelling are often told by a number of elders in the community. In this way, the stories are never static because they are shaped by the relationship between narrator and audience. Thus, each individual story may have countless variations. Narrators often incorporate minor changes in the story in order to tailor the story to different audiences.[9]
-
-Aesthetics approach
-Narrative is a highly aesthetic art. Thoughtfully composed stories have a number of aesthetic elements. Such elements include the idea of narrative structure, with identifiable beginnings, middles and ends, or exposition-development-climax-denouement, with coherent plot lines; a strong focus on temporality including retention of the past, attention to present action and protention/future anticipation; a substantial focus on character and characterization, "arguably the most important single component of the novel" (David Lodge The Art of Fiction 67); different voices interacting, "the sound of the human voice, or many voices, speaking in a variety of accents, rhythms and registers" (Lodge The Art of Fiction 97; see also the theory of Mikhail Bakhtin for expansion of this idea); a narrator or narrator-like voice, which "addresses" and "interacts with" reading audiences (see Reader Response theory); communicates with a Wayne Booth-esque rhetorical thrust, a dialectic process of interpretation, which is at times beneath the surface, forming a plotted narrative, and at other times much more visible, "arguing" for and against various positions; relies substantially on the use of literary tropes (see Hayden White, Metahistory for expansion of this idea); is often intertextual with other literatures; and commonly demonstrates an effort toward bildungsroman, a description of identity development with an effort to evince becoming in character and community.[jargon]
-
-Psychological approach
-See also: Narrative therapy
-Within philosophy of mind, the social sciences and various clinical fields including medicine, narrative can refer to aspects of human psychology.[10] A personal narrative process is involved in a person's sense of personal or cultural identity, and in the creation and construction of memories; it is thought by some to be the fundamental nature of the self.[11][12] The breakdown of a coherent or positive narrative has been implicated in the development of psychosis and mental disorder, and its repair said to play an important role in journeys of recovery.[13] Narrative Therapy is a school of (family) psychotherapy.
-
 ---
 
 **Narrative Structure:**
 
-Definition
-Narrative structure is about story and plot: the content of a story and the form used to tell the story. Story refers to the dramatic action as it might be described in chronological order. Plot refers to how the story is told. Story is about trying to determine the key conflicts, main characters, setting and events. Plot is about how, and at what stages, the key conflicts are set up and resolved.[1]
+Narrative and/or narrative structure in literary studies most often refers to the way a story is told--how the [[narrator->Narrator]] tells the story (embellishments, [[language->Figurative Language]], [[tone->Tone]], [[point-of-view->Point of View]]. In other words, we want to focus in on the [[structure->Structure]] of the [[text->Text]] we are reading. We might also refer to narrative or narrative structure as "plot." 
 
-Description
-The setup (act one) is where all of the main characters and their basic situations are introduced, and contains the primary level of characterization (exploring the character's backgrounds and personalities). A problem is also introduced, which is what drives the story forward.
+Make sure not to conflate story and narrative or plot when encountering a text. We most often use the word story to refer to the events or action in a text--we often do this in chronological order. Narrative structure or plot refers to how the narrator organizes those events or actions. 
 
-The second act, the conflict, is the bulk of the story, and begins when the inciting incident (or catalyst) sets things into motion. This is the part of the story where the characters go through major changes in their lives as a result of what is happening; this can be referred to as the character arc, or character development.
+We address story when we are looking at the effect of [[character->Character]], [[setting->Setting]], or conflicts that push the events forward (or backwards). 
 
-The third act, or resolution, is when the problem in the story boils over, forcing the characters to confront it, allowing all the elements of the story to come together and inevitably leading to the ending.
+We address narrative or plot when conflicts, tensions, ambiguities, mysteries are resolved, made more opaque, or sent in a new direction that changes how we receive information from the text.  
 
-History
-First described in ancient times by Greek philosophers (such as Aristotle and Plato), the notion of narrative structure saw renewed popularity as a critical concept in the mid-to-late-20th century, when structuralist literary theorists including Roland Barthes, Vladimir Propp, Joseph Campbell, and Northrop Frye attempted to argue that all human narratives have certain universal, deep structural elements in common. This argument fell out of fashion when advocates of poststructuralism such as Michel Foucault and Jacques Derrida asserted that such universally shared, deep structures were logically impossible.
-
-In Frye's Anatomy of Criticism, he deals extensively with what he calls myths of Spring, Summer, Fall, and Winter:
-
-Spring myths are comedies, that is, stories that lead from bad situations to happy endings. Shakespeare's Twelfth Night is such a story.
-Summer myths are similarly utopian fantasies such as Dante's Paradiso.
-Fall myths are tragedies that lead from ideal situations to disaster. Compare Hamlet, Othello, and King Lear and the movie Legends of the Fall.
-Winter myths are dystopias; for example, George Orwell's 1984, Aldous Huxley's Brave New World, and Ayn Rand's novella Anthem.
-Categories
-Most forms of narrative fall under four main categories: linear narratives, nonlinear narrative, interactive narration, and interactive narrative.
-
-Linear narrative is the most common form of narration, where events are largely portrayed in a chronological order, that is, telling the events in the order in which they occurred.
-Nonlinear narratives, disjointed narrative or disrupted narrative is a narrative technique, where events are portrayed, out of chronological order or in other ways where the narrative does not follow the direct causality pattern.
-Interactive narration refers to works where the linear narrative is driven by, rather than influenced by, the users interaction.
-Interactive narrative is a form of fiction in which users are able to make choices that influence the narrative (for example, through alternative plots or resulting in alternative endings) through their actions.
-Linear narrative
-Flashbacks are often confused with true narratives which are not linear, but the concept is fundamentally linear. An example would be Citizen Kane by Orson Welles. Although some films appear to open (very briefly) with the ending, flashback movies almost immediately jump back to the very beginning of the story to proceed linearly from there, and usually proceed past the supposed "ending" shown at the beginning of the movie.
-
-Nonlinear narrative
-Cinema can only provide the illusion through broken narrative, a famous example of this being the 1994 film Pulp Fiction. The film is ostensibly three short stories, which, upon closer inspection, are actually three sections of one story with the chronology broken up; Quentin Tarantino constructs the narrative without resorting to classic "flashback" techniques.
-
-An even more ambitious attempt at constructing a film based on non-linear narrative is Alain Resnais's 1993 French film Smoking/No Smoking. The plot contains parallel developments, playing on the idea of what might have happened had the characters made different choices.
-
-Interactive narration
-In works of interactive narration there is only one narrative but the method of delivery requires the user to actively work to gain the next piece of the narrative, or have to piece the parts of narrative that they have together in order to form a coherent narrative.
-
-This is the narrative approach of some modern video games. A player will be required to reach an objective, complete a task, solve a puzzle, or finish a level before the narrative continues.
-
-Interactive narrative
-An interactive narrative is one which is composed with a branching structure where a single starting point may lead to multiple developments and outcomes. The principle of all such games is that, at each step of the narrative, the user makes choices that advance the story, leading to new series of choices. Authoring non-linear narrative or dialogue thus implies imagining an indefinite number of parallel stories.
-
-In a gamebook, readers are told to turn to a certain page according to the choice they wish to make to continue the story. Typically, the choice will be an action rather than dialogue. For example, the hero hears a noise in another room and must decide to open the door and investigate, run away, or call for help. This kind of interactive experience of a story is possible with video games and books (where the reader is free to turn the pages) but less adapted to other forms of entertainment. Improvisational theatre is similarly open-ended, but of course cannot be said to be authored.
-
-
----
-
-
-*
-**First-Person Narrative Voice:**
-
-First-person Narration
-Definition:
-
-When the story you're reading is from the point-of-view of a character in the novel (often the protagonist), you're reading first-person narration. First-person narrators make frequent use of the pronoun "I," because, you know, they're talking about themselves, or at the very least what's going on around them. This style of narration gives us insight into a character's thoughts and feelings. Lucky us.
-
-If you're looking for some of the more famous first-person narrators in all of literature, look no further than Scout in Harper Lee's To Kill a Mockingbird, or that phony-calling phony, Holden Caulfield, in J.D. Salinger's The Catcher in the Rye.
-
-First-person narration sounds nice and simple, right? You've got an "I" and he's doing some talking. Moving on. But there are actually a ton of different ways that first-person narration can play out. Examples? Oh, we've got those in spades:
-
-There's the interior monologue of the Underground Man in Fyodor Dostoevsky's Notes from the Underground.
-There's the dramatic monologue of Jean-Baptiste in Albert Camus's The Fall. 
-There's even the strange, plural first-person narration in Faulkner's "A Rose for Emily."
-Oh, and speaking of Faulkner, he had three (count 'em!) first-person narrators in The Sound and the Fury, who trade off telling their stories. Then he even tosses a third-person narrator our way at the end, just for kicks.
-Faulkner was a sneaky guy, and he found his way around the limitations of first-person narration. But there are other tricks authors use, too, like, say, a peripheral narrator.
-
-A peripheral narrator is a first-person narrator who's not the main character. She gets to give us the lowdown on the juicy dealings of the true protagonists and antagonists, all while watching from a safe distance. Think Nick Carraway in F. Scott Fitzgerald's The Great Gatsby.
-
-But we can get even further removed than Nick, if we really want to. The narrator of Joseph Conrad's most famous novel, Heart of Darkness is telling us a story he heard from a guy named Marlow, who's telling the story of yet another guy named Kurtz. You might have heard of him. He dead.
-
-See, not so simple after all, huh? It's important to remember that the first-person narrative style can open up a lot of doors for the author, but it slams some other doors right in his face. On the one hand, he can give the readers VIP access into his character's thoughts and feelings, and that's just what we hungry readers are craving, right? But on the other hand, he can't just zoom out and suddenly see things going on in multiple places at once, like a third-person narrator can.
-
-It's also super important to remember that when a first-person is narrating the story, they're somehow involved in the whole shebang. They're part of the action. They've got something at stake. Unfortunately, this means that they're not always the most trustworthy of folks. They're not always interested in full disclosure.
-
-When we can't trust our narrator, we call them unreliable, and we don't just mean that they bail on plans. Although frankly, if Nick Carraway didn't show up to our Roaring '20s party, we'd be pretty peeved. For a classic example of an unreliable narrator, take a look at our take on Poe's "The Tell-Tale Heart." Or really any of Poe's narrators for that matter. They were notoriously flaky.
-
----
-
-**Third-Person Narrative Voice:**
-
-Third-person Narration
-Definition:
-
-You'll find third-person narration in stories where a detached person (someone who isn't directly involved in the action) tells you everything that goes down. A third-person narrator can sometimes be omniscient, when they have a bird's-eye-view of all the goings on. Or they can be limited, and stick closely to the perspectives of just one or two characters.
-
-The bonus of having a third-person narrator is that we readers aren't trapped inside one character's head. We might gain access to the thoughts and feelings of other characters, and we might get to see what goes down in two different places at the same time. It's a nice dose of perspective that allows us readers to evaluate what's going on with as little bias as possible. 
-
-But there are drawbacks, too. For one thing, it can be tougher to sympathize with characters when an author is using third-person narration (particularly when it's omniscient), because the narration is so detached from what's going on in the hearts and minds of the folks on the ground. Hey, sometimes we want a little bias, okay?
-
----
-
-**Omniscient Narrative Voice:**
-
-Omniscience
-Definition:
-
-A word usually used in relation to narrators, omniscience means all-knowingness. If a narrator is omniscient, he or she has the god-like ability to see and know everything going on in the world of the novel, the lucky duck. Omniscience is often a feature of third-person narration, which makes sense, because it would be awfully hard for a first-person narrator to read the minds of the characters around her.
-
-Want to see an omniscient narrator in all their awesome, knowledgey glory? Meet the narrator of Aldous Huxley's Brave New World. He knows what's up.
+Narratives are either non-liner or linear. That is, they take place as a sequence of chronological events one after the other (linear) or they take place in a non-sequential order using flash-backs and/or flash-forwards. In either case, there may be one or more [[narrators->Narrator]] telling the story or constructing the narrative (plot).
 
 ---
 
 **Narrator:**
 
-Narrator
-Definition:
+The narrator is the one who tells the story. She/He/They may or may not be a [[character->Character]] in the text. At the same time, the narrator(s) might not even be implicated directly in the action(s) central to the text's conflicts, ambiguities, or mysteries. However, in every case,the narrator(s) relate(s) the information the reader is receiving, giving it [[structure->Narrative Structure]] and purpose. There can be more than one narrator. 
 
-The narrator is the one who tells the story—kind of like a guide leading you through a novel or short story. A narrator can have a limited point-of-view, as with first-person narrators, or they can have total omniscience. Narrators can be unreliable or trustworthy. They can be close to the action or as far away as possible. It all depends.
+Narrators can tell a story from a number of different perspectives or [[points-of-view->Point of View]]. Stories can be [[narrated->Narrative Structure]] through a [[first-person->First Person Narrative POV]], [[third-person->Third Person Narrative POV]], or second-person (rare), point-of-view, all with differing degrees of access. We need to determine what point-of-view a narrator is using because doing so often reveals biases, embellishments, and establishes the reliability or unreliability of the narrator.    
 
-In many ways, narrators (even third-person ones) become characters in their own right. Some of our favorite narrators include Watson in The Adventures of Sherlock Holmes, the witty, snarky voice of Jane Austen's novels, and the kooky narrator of Roald Dahl's Charlie and the Chocolate Factory. Who are your faves?
+We also want to pay close attention to the choices the narrator makes in constructing the [[narrative->Narrative Structure]]. In particular, we want to be aware of cultural, social, economic, racial, etc., [[signals->Signal]] that might appear in the story through [[symbols->Symbol]], common [[images->Imagery]], or [[intertextual->Intertextuality]] references. 
+
+---
+
+**Point-of-View:**
+
+Point-of-view (sometimes "focalization") refers to the perspective of a narrator or character in a text. Given that the narrator can be a character in the text, we most often refer to point-of-view only in terms of the narrator. When looking at the social, cultural, moral, aesthetic, or otherwise perspectives of a particular character (not the narrator), we might also refer to point-of-view. However, in this case we are often outside discussions of [[narrative->Narrative Structure]] structure or plot because that character, if not the narrator, has no direct role in shaping the structure of events.  
+
+There are some texts that feature multiple characters relating the same story from multiple perspectives. There are others that directly involve the reader in the action (by referring to them explicitly as "you" or by allowing them to choose the text narrative move--a choose your own adventure). 
+
+Point-of-view falls into one of the following structures:
+<ul><li>[[First-person->First Person Narrative POV]]</li> 
+<li>[[third-person limited->Third Person Narrative POV]]</li>
+<li> [[third-person omniscient->Third Person Narrative POV]]</li>
+<li>second-person (rare) --when the text calls on you. E.g. "You are reading this text"</li></ul>
+We need to determine what point-of-view a narrator is using because doing so often reveals biases, embellishments, and establishes the reliability or unreliability of the narrator. We Also want to be aware of point-of-view to expose any ambiguities, inconsistencies, tendencies of the [[narrator->Narrator]] that might expose motivations and [[signal->Signal]] intent. We might then gain insight into the social conventions underlying the perspective the cultural production (or text) might be foregrounding.    
+
+---
+
+**First Person Narrative POV:**
+
+First-person narrative refers to a [[narrator->Narrator]] who is a [[character->Character]] in the [[text->Text]] and is telling his or her own [[story->Narrative Structure]]. Most often, the first-person narrator uses the pronoun "I" and in so doing asserts his or her own agency in the story. 
+
+We often have access to the first-person narrator's inner thoughts and consciousness because s/he is a [[protagonist->Protagonist]] in the text. 
+
+Because they are relating events to readers through a first-person perspective (or point-of-view), first-person narrators have a limited view of the events. They are not necessarily aware of how events are going to unfold or, they might *already* be aware of how events unfolded. The [[narrative structure->Narrative Structure]],  or textual [[structure->Structure]] more generally, will often reveal the narrator's position in history and reveal what s/he knows about the story events or outcomes.
+
+The importance of establishing what a first-person narrator knows or does not know, what s/he might be leaving out or including, what s/he might be embellishing or obfuscating, is important in determining hidden agendas or polemics behind a seemingly benign story. 
+
+---
+
+**Third Person Narrative POV:**
+
+Third-person narrative refers to a [[narrator->Narrator]] who refers to everyone in the story as "he," "she," "it," or "they," but never as "I" or "we" (which would [[signal->Signal]] [[first-person narrative->First Person Narrative POV]]. 
+
+The third person narrator appears to be conveying the story rather than participating in it. Their presence as the storyteller is rarely explained and their motivation for relating the story is ambiguous. The [[text->Text]] comes to us through a disembodied voice, or "god-like" perspective. 
+
+The third-person narrative usually falls into one of two categories:
+
+**Subjective / Objective:**
+<ul><li>Subjective: narrator describes one or more consciousness(es) and has access to all their perspectives (thoughts, feelings, motivations, etc.).</li> 
+<li>Objective: narrator describes no character consciousness, ignoring the all characters' inner worlds. This third-person objective narrator appears to be entirely trustworthy, relating the exact events of the story without the implied bias of description or unfettered access.</li></ul>
+**Omniscient / Limited:**
+<ul><li>Omniscient: narrator seems to know everything about everything that ever was or will be when it comes to the story. S/he knows every thought, the history of every place, the beginning and end to every story / fact / event that has ever happened in the story world--total and complete insight.</li>
+<li>Limited: narrator's omniscience is limited to only one character (sometimes more than one but rarely) and what they have experienced of the story world. The limited narrator cannot extend beyond the perspective of one character. S/he cannot know anything outside that character's perspective (sometimes referred to as having "over-the-shoulder" perspective).</li></ul>
+
+The different narrative perspectives of third-person narrative point-of-view can be overwhelming. However, we're looking at the point-of-view in order to determine the motivations, biases, embellishments, stereotypes, etc., being deployed by the narrator and how these might impact our reception of the [[text->Text]].
 
 ---
 
 **Allusion:**
 
-Let's get down to brass tacks. An allusion is, plain and simple, a reference. You'll find allusions (or shout-outs, as we like to call them) when the book you're reading makes a reference to something outside of itself, whether another work of literature, something from pop culture, a song, myth, history, or even the visual arts.
+Allusion is a word, [[image->Imagery]], [[setting->Setting]], [[character->Character]], [[symbol->Symbol]]. or even [[structure->Structure]] that references something else, often outside the [[text->Text]]. Allusion most often occurs when the text makes reference to something outside the confines of its own events, usually to some form of [[cultural production->Cultural Production]]. 
 
-Why use allusions? Because they connect literature to other pieces of literature (or art or music or history or whatever). Allusions deepen and enrich a work's meaning, and are a form of intertextuality, so they help books talk to each other.
+Allusion is useful for interpreting a text's connection to other forms of cultural production or for understanding areas where the text might be setting [[context->Context]] for its reception. Allusion is closely related to [[intertextuality->Intertextuality]].
 
-Examples? William Shakespeare is the king of being alluded to and referenced in literature. The title of William Faulkner's The Sound and the Fury is an allusion to a line from Macbeth, and when we read Faulkner, if we keep Macbeth in mind, Faulkner's meaning just might be enhanced.
-
-Oh, and the title of David Foster Wallace's Infinite Jest is an allusion to Hamlet's description of Yorick in Hamlet.
+Allusions are important because they often [[signal->Signal]] deeper meaning in the text, enhance the effect of [[figurative language->Figurative Language]], give hints about the role of context in understanding character actions, [[perspectives->Point of View]], or [[narrative structure->Narrative Structure]].
 
 ---
 
 **Intertextuality:**
 
-Intertextuality
-Definition:
+Intertextuality refers to the connections between texts or, how a text speaks to--represents--another [[text->Text]]. The texts being referred to can be any form of [[cultural production->Cultural Production]]--movies, books, poems, music, theatre, television--or the [[characters->Character]], [[settings->Setting]], [[plot-lines->Narrative Structure]], or [[symbols->Symbol]] that appear in cultural production. 
 
-People have conversations with each other, so why can't books?
+Like [[allusion->Allusion]], intertextuality enhances meaning in a text by connecting events, characters, [[images->Imagery]], etc., to a shared cultural history or cultural understanding based in cultural production. 
 
-Intertextuality is a conversation between books. Intertextual books reference other pieces of writing, and use those references to make meaning. Have a look at our discussion of intertextuality in Rebecca Stead's When You Reach Me for more.
+---
 
-But intertextuality isn't just for books, so keep a weather eye out for it when you're watching your next episode of Community.
+**Cultural Production:**
+
+Cultural production refers to the manner in which shared values are distributed through the creative endeavours of a particular population. Most often, cultural production is understood as referring to elements of the culture industry--movies, music, painting, literature, and any of the other Arts. 
+
+We often use cultural production as a general term meaning all the texts--no matter the medium--that a given culture produces. As such, the framework or [[context->Context]] for understanding a [[text->Text]]--why a particular [[genre->Genre]], [[character->Character]] archetype, or [[plot-line->Narrative Structure]] is prevalent in cultural narratives or themes (a particular brand of heroism, particular roles for women, or racial stereotypes). 
+
+With the above in mind, it is important to remember that cultural production can also refer to the productions (texts) of culture that serves a nationalist purpose, such as propaganda, or that might create a shared system of values--advertising, religious or racial profiling, and political perspectives. 
+
+---
+
+**Theme:**
+
+Theme refers to the unifying subject or idea in a [[text->Text]]. Themes usually refer to universal ideas about life, society, or human actions. At the same time, a theme is not a topic. Instead, themes are prevailing--often cultural--ideas explored within a text--questions of morality, mortality, fidelity, idealism, nationalism. In short, a theme is what a text *represents*, not what it is about. 
+
+Often, the central conflict in a text is built around a [[character's->Character]] transgression of familiar boundaries or accepted norms represented in theme. As well, certain [[symbols->Symbol]] might suggest thematic transgressions where a character might not explicitly behave outside what we expect. At the same time, our understanding of themes common to particular modes of  [[cultural production->Cultural Production]] may influence how we understand the [[context->Context]] of the story. 
+
+Themes can only be identified by closely examining the interplay between [[narrative structure->Narrative Structure]], character, [[point-of-view->Point of View]], and [[symbols->Symbol]]. As a result, the same story can be told over and over again, across numerous texts, but highlight different themes in each case. Unlike most symbols, themes are not bound to the text in which we identify them. 
+
+---
+
+ [[genre->Genre]], [[syntax->Syntax]], [[diction->Diction]], [[ballad->Ballad]], [[style->Style]], [[tone->Tone]], [[motif->Motif]], [[simile->Simile]], [[Personification->Personification]], [[metaphor->Metaphor]], [[symbol->Symbol]], [[point-of-view->Point of View]], [[third-person narrative->Third Person Narrative POV]], [[protagonist->Protagonist]], [[narrator->Narrator]], [[first-person narrative->First Person Narrative POV]], [[structure->Structure]], [[intertextuality->Intertextuality], [[signal->Signal]], [[figurative language->Figurative Language]], [[settings->Setting]], [[allusion->Allusion]], [[image->Imagery]], [[genre->Genre]], [[text->Text]], [[character->Character]], [[cultural production->Cultural Production]], [[context->Context]], [[theme->Theme]], [[narrative structure->Narrative Structure]], [[point-of-view->Point of View]], [[symbols->Symbol]]
+ 
+ ---
+[[allusion->Allusion]]
+[[ballad->Ballad]]
+[[character->Character]]
+[[context->Context]]
+[[cultural production->Cultural Production]]
+[[diction->Diction]]
+[[figurative language->Figurative Language]]
+[[first-person narrative->First Person Narrative POV]]
+[[genre->Genre]]
+[[image->Imagery]]
+[[intertextuality->Intertextuality]]
+[[metaphor->Metaphor]]
+[[motif->Motif]]
+[[narrative structure->Narrative Structure]]
+[[narrator->Narrator]]
+[[Personification->Personification]]
+[[point-of-view->Point of View]]
+[[protagonist->Protagonist]]
+[[setting>Setting]]
+[[signal->Signal]] 
+[[simile->Simile]]
+[[structure->Structure]]
+[[style->Style]]
+[[symbol->Symbol]], 
+[[syntax->Syntax]]
+[[text->Text]]
+[[theme->Theme]]
+[[third-person narrative->Third Person Narrative POV]]
+[[tone->Tone]]
 
 ---
 

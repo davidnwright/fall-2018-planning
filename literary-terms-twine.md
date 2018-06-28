@@ -356,9 +356,12 @@ Themes can only be identified by closely examining the interplay between [[narra
 
 ---
 
- [[genre->Genre]], [[syntax->Syntax]], [[diction->Diction]], [[ballad->Ballad]], [[style->Style]], [[tone->Tone]], [[motif->Motif]], [[simile->Simile]], [[Personification->Personification]], [[metaphor->Metaphor]], [[symbol->Symbol]], [[point-of-view->Point of View]], [[third-person narrative->Third Person Narrative POV]], [[protagonist->Protagonist]], [[narrator->Narrator]], [[first-person narrative->First Person Narrative POV]], [[structure->Structure]], [[intertextuality->Intertextuality], [[signal->Signal]], [[figurative language->Figurative Language]], [[settings->Setting]], [[allusion->Allusion]], [[image->Imagery]], [[genre->Genre]], [[text->Text]], [[character->Character]], [[cultural production->Cultural Production]], [[context->Context]], [[theme->Theme]], [[narrative structure->Narrative Structure]], [[point-of-view->Point of View]], [[symbols->Symbol]]
+See also: [[allusion->Allusion]], [[ballad->Ballad]], [[character->Character]], [[context->Context]], [[cultural production->Cultural Production]], [[diction->Diction]], [[figurative language->Figurative Language]], [[first-person narrative->First Person Narrative POV]], [[genre->Genre]], [[image->Imagery]], [[intertextuality->Intertextuality]], [[metaphor->Metaphor]], [[motif->Motif]], [[narrative structure->Narrative Structure]], [[narrator->Narrator]], [[Personification->Personification]], [[point-of-view->Point of View]], [[protagonist->Protagonist]], [[setting->Setting]], [[signal->Signal]], [[simile->Simile]], [[structure->Structure]], [[style->Style]], [[symbol->Symbol]], [[syntax->Syntax]], [[text->Text]], [[theme->Theme]], [[third-person narrative->Third Person Narrative POV]], [[tone->Tone]]
+
+Back to the [[master list->Literary Terms]]
  
  ---
+ 
 [[allusion->Allusion]]
 [[ballad->Ballad]]
 [[character->Character]]

@@ -7,7 +7,7 @@ Maybe divide 1130 into five categories from which students can choose their own 
 
 1. Canadian Indigenous Reconciliation and Identity
 2. Urban Renewal Plan for Your Neighbourhood
-3. Sports and Class (or Economic Status)
+3. Sports and Economic Status
 4. The Immigrant Experience
 5. Resistance and Protest
 
